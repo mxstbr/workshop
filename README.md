@@ -1,12 +1,12 @@
-# Women Who Code London 2017
+# Workshop
 
 Let's learn some React! ⚛️
 
 Before the workshop starts please make sure you can get this repository and run it locally:
 
 ```
-git clone https://github.com/mxstbr/wwc.git
-cd wwc
+git clone https://github.com/mxstbr/workshop.git
+cd workshop
 npm install
 npm start
 ```
